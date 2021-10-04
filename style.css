@@ -1,0 +1,16 @@
+body {
+    background-color: #e4e4e4;
+}
+
+#index{
+    background: url(media/Photo.jpg)
+}
+
+nav {
+    background-color: #6aa84f;
+
+}
+
+.parallax-container {
+    height: 200px;
+}
